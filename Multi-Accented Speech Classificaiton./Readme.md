@@ -1,0 +1,2 @@
+This folder contains the python code for multi-accented speech classification task using whisper and LLM fine-tunnning approaches such as LoRA and QLoRA.
+The dataset used in the project is IndicAccentDB, NISP and Gujarati Digits. NISP and Gujarati Digits datasets are publicly available. In order to reuse the code here, we would suggest the authors to downlaod the data and pre-process it using the pre-process file and perform training and testing.
